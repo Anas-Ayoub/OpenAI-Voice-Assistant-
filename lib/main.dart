@@ -1,7 +1,7 @@
 import 'package:openai/Themes/dark_theme.dart';
 import 'package:openai/Themes/light_theme.dart';
 import 'package:openai/home_page.dart';
-import 'package:openai/pallete.dart';
+
 import 'package:flutter/material.dart';
 
 void main() {

@@ -1,9 +1,5 @@
 import 'dart:async';
-import 'dart:io';
-import 'dart:math';
-import 'package:openai/feature_box.dart';
 import 'package:openai/openai_service.dart';
-import 'package:openai/pallete.dart';
 import 'package:openai/widget/drawer.dart';
 import 'package:animate_do/animate_do.dart';
 import 'package:flutter/material.dart';
@@ -11,7 +7,6 @@ import 'package:flutter_tts/flutter_tts.dart';
 import 'package:speech_to_text/speech_recognition_result.dart';
 import 'package:speech_to_text/speech_to_text.dart';
 import 'package:lottie/lottie.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:logger/logger.dart';
 
