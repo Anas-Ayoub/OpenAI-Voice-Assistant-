@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to **OpenAI Voice Assistant** – a versatile Flutter application that harnesses the power of OpenAI API to provide a seamless experience for users. Whether you want to generate text using GPT or create images using DALL-E, this app has got you covered. With a user-friendly voice input system and a text-to-speech assistant, **[Your App Name]** is designed to make interactions effortless and enjoyable.
+Welcome to **OpenAI Voice Assistant** – a versatile Flutter application that harnesses the power of OpenAI API to provide a seamless experience for users. Whether you want to generate text using GPT or create images using DALL-E, this app has got you covered. With a user-friendly voice input system and a text-to-speech assistant, **OpenAI Voice Assistant** is designed to make interactions effortless and enjoyable.
 
 ## Features
 
